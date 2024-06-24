@@ -21,7 +21,7 @@ process.stdin.on("data", function(data) {
         if(entrada_usuario == "violão") {
             console.log("toca não")
         } else if(entrada_usuario == "guitarrra") {
-            console.log("Então vc é trovoso mesmo hein")
+            console.log("Então você não gosta")
         } else if(entrada_usuario == "bateria") {
             console.log("Bater tambor")
         } else {
